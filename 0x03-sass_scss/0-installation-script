@@ -1,3 +1,8 @@
-SASS Setup
-Installed SASS by using the following command:
-npm install sass
+# Installation of SASS can be seen at the official SASS website
+
+### Installation via CLI
+npm install -g sass
+
+
+Check if installations has been done correct using:
+sass --version
